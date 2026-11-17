@@ -1,1 +1,1 @@
-#write you code here
+print("This is my first class of python")
