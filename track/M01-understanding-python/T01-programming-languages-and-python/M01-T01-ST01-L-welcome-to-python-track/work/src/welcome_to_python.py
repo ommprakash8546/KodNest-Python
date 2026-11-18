@@ -1,3 +1,3 @@
-print("This is my first class of python")
-print("Full stack developer")
-print("New programmiing day")
+print("Hello my friends")
+print("Welcome to python")
+print("I will be a software engineer")
